@@ -1,0 +1,22 @@
+{
+  "name": "react-parcel-forwardslash",
+  "version": "1.0.0",
+  "description": "A Forwardslash Development prototype React application bundled with Parcel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Forwardslash-development/React-Parcel-Forwardslash.git"
+  },
+  "keywords": [
+    "Forwardslash Development"
+  ],
+  "author": "jv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Forwardslash-development/React-Parcel-Forwardslash/issues"
+  },
+  "homepage": "https://github.com/Forwardslash-development/React-Parcel-Forwardslash#readme"
+}
